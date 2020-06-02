@@ -1,5 +1,5 @@
 # chaos CG 
-![in](https://user-images.githubusercontent.com/52724526/83478218-3e15f280-a4d0-11ea-91c1-bcab63688f3c.png)
+<img align="center" src="https://user-images.githubusercontent.com/52724526/83478218-3e15f280-a4d0-11ea-91c1-bcab63688f3c.png" width=200px>
 
 ## 作り方
 
